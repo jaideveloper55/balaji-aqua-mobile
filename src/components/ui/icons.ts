@@ -1,4 +1,3 @@
-// All icon imports live here, so a library change touches one file.
 export {
   ArrowLeft,
   Banknote,
@@ -7,6 +6,7 @@ export {
   Eye,
   EyeOff,
   House,
+  Minus, // NEW
   NotebookPen,
   Phone,
   Plus,
